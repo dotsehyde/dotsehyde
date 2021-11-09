@@ -24,11 +24,6 @@
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotsehyde&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dotsehyde"/></td></tr></table>
 
-### Connect With Me:
-
-<a href="https://www.linkedin.com/in/dotsehyde/" target="_blank"> <img src="https://user-images.githubusercontent.com/36896102/121735488-d13a2d00-cb13-11eb-9af1-f32bbc015e0b.png" alt="linkedin" width="40" height="40"/> </a>
-
-<a href="https://twitter.com/dotsehyde/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="twitter" width="40" height="40"/> </a>
-
-<a href="https://www.instagram.com/dotsehyde" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="instagram" width="40" height="40"/> </a>
-
+<div align="center">
+  <a href="https://www.dotsehyde.github.io" target="_blank"><h3>Visit My Portifolio</h3> </a>
+  </div>
