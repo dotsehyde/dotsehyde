@@ -21,9 +21,9 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 <a href="https://www.firebase.google.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/> </a>
-
+</div>
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotsehyde&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dotsehyde"/></td></tr></table>
 
 <div align="center">
-  <a href="https://www.dotsehyde.github.io" target="_blank"><h3>Visit My Portifolio</h3> </a>
+  <a href="https://www.dotsehyde.github.io" target="_blank"><b>Visit My Portifolio</b> </a>
   </div>
