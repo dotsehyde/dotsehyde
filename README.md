@@ -1,3 +1,7 @@
+<div align="center">
+  
+  ### I'm Benjamin.
+  ## Frontend Developer | UI/UX | Think Different
 - 👨‍💻 I'm a Frontend Developer
 
 - 🌱 I’m currently learning **React JS,Node JS**
@@ -28,6 +32,3 @@
 
 <a href="https://www.instagram.com/dotsehyde" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="instagram" width="40" height="40"/> </a>
 
-<a href="https://www.thebbnr.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="thebbnr" width="40" height="40"/> </a>
-
-</div>
