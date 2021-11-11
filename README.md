@@ -5,8 +5,6 @@
 👨‍💻 I'm a Frontend Developer
 
 🌱 I’m currently learning **Next JS**
-
-📫 How to reach me **dotsehyde@gmail.com**
   </div>
 
 <div align="center">
