@@ -4,7 +4,7 @@
   ## Frontend Developer | UI/UX | Think Different
 👨‍💻 I'm a Frontend Developer
 
-🌱 I’m currently learning **Next JS**
+🌱 I’m currently learning **Vue JS**
   </div>
 
 <div align="center">
