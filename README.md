@@ -1,8 +1,8 @@
 <div align="center">
-  
+ 
   ### I'm Benjamin.
   ## Frontend Developer | UI/UX | Think Different
-👨‍💻 I'm a Frontend Developer
+👨‍💻 Web & Mobile Frontend Developer
 
 🌱 I’m currently learning **Vue JS**
   </div>
