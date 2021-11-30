@@ -30,5 +30,8 @@
   <a href="https://www.linkedin.com/in/dotsehyde" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/> </a>
   <a href="https://www.twitter.com/dotsehyde" target="_blank"> <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="twitter" width="40" height="40"/> </a>
   <a href="https://www.instagram.com/dotsehyde" target="_blank"> <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="instagram" width="40" height="40"/> </a>
+  </div>
+  
+  <div align="center">
   <a href="https://www.dotsehyde.github.io" target="_blank"><b>Visit My Portifolio</b> </a>
   </div>
