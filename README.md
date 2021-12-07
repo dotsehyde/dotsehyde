@@ -33,5 +33,5 @@
   </div>
   
   <div align="center">
-  <a href="https://www.dotsehyde.github.io" target="_blank"><b>Visit My Portifolio</b> </a>
+  <a href="https://dotsehyde.github.io" target="_blank"><b>Visit My Portifolio</b> </a>
   </div>
