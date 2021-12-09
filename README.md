@@ -2,7 +2,7 @@
  
  <h1 align="center"> Hello World; I'm Benjamin.</h1>
   
- ## Frontend Developer | Flutter | Vue JS
+ <h4 align="center"> Frontend Developer | Flutter | Vue JS</h4>
 
  👨‍💻 Web & Mobile Frontend Developer
 
