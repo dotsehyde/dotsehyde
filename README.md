@@ -26,7 +26,7 @@
 <a href="https://www.styled-components.com" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg" alt="styled-components" width="40" height="40"/> </a>
 <a href="https://www.firebase.google.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/> </a>
 </div>
-<table><tr><td>!stats</td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dotsehyde"/></td></tr></table>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotsehyde&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dotsehyde"/></td></tr></table>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dotsehyde" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/> </a>
