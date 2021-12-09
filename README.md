@@ -1,15 +1,15 @@
 <div align="center">
  
-  ### I'm Benjamin.
-  ## Frontend Developer | UI/UX | Think Different
+ <h1 align="center"> Hello World; I'm Benjamin.</h1>
+  ## Frontend Developer | Flutter | Vue JS
 👨‍💻 Web & Mobile Frontend Developer
 
-🌱 I’m currently learning **Vue JS**
+🌱 I’m currently learning **Nuxt JS**
   </div>
 
 <div align="center">
 
-### Languages and Tools:
+### Languages and Frameworks:
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -24,7 +24,7 @@
 <a href="https://www.styled-components.com" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg" alt="styled-components" width="40" height="40"/> </a>
 <a href="https://www.firebase.google.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/> </a>
 </div>
-<table><tr><td>[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=dotsehyde&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/dotsehyde)</td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dotsehyde"/></td></tr></table>
+<table><tr><td>!stats</td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dotsehyde"/></td></tr></table>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dotsehyde" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/> </a>
