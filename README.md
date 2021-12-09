@@ -1,8 +1,10 @@
 <div align="center">
  
  <h1 align="center"> Hello World; I'm Benjamin.</h1>
-  ## Frontend Developer | Flutter | Vue JS
-👨‍💻 Web & Mobile Frontend Developer
+  
+ ## Frontend Developer | Flutter | Vue JS
+
+ 👨‍💻 Web & Mobile Frontend Developer
 
 🌱 I’m currently learning **Nuxt JS**
   </div>
