@@ -2,11 +2,11 @@
  
  <h1 align="center"> Hello World; I'm Benjamin.</h1>
   
- <h3 align="center"> Frontend Developer | Flutter | Vue JS</h3>
+ <h3 align="center"> Mobile Developer | Flutter | Swift</h3>
 
- 👨‍💻 Web & Mobile Frontend Developer
+ 👨‍💻 Mobile Developer
 
-🌱 I’m currently learning **Nuxt JS**
+🌱 I’m currently learning **Swift** && **SwiftUI**
   </div>
 
 <div align="center">
