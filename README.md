@@ -21,7 +21,6 @@
 <a href="https://www.dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="dart" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="40" height="40"/> </a>
 <a href="https://vuejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 <a href="https://mui.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="material-ui" width="40" height="40"/> </a>
 <a href="https://www.ant.design" target="_blank"> <img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" alt="ant-design" width="40" height="40"/> </a>
 <a href="https://www.styled-components.com" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg" alt="styled-components" width="40" height="40"/> </a>
