@@ -2,7 +2,7 @@
  
  <h1 align="center"> Hello World; I'm Benjamin.</h1>
   
- <h3 align="center"> Mobile Developer | Flutter | Swift</h3>
+ <h3 align="center"> Mobile Developer | Swift | Flutter</h3>
 
  👨‍💻 Mobile Developer
 
