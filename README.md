@@ -1,10 +1,8 @@
 <div align="center">
  
- <h1 align="center"> Hello World; I'm Benjamin.</h1>
+ <h1 align="center">👨‍💻</h1>
   
  <h3 align="center"> Mobile Developer || Swift || Flutter</h3>
-
- 👨‍💻 Mobile Developer
 
 🌱 I’m currently learning **Swift** && **SwiftUI**
   </div>
