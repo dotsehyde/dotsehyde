@@ -1,10 +1,22 @@
-<div align="center">
+<div align="left">
  
- <h1 align="center">👨‍💻</h1>
-  
- <h3 align="center"> Mobile Developer || Swift || Flutter</h3>
+  <h2> Mobile Developer || Swift || Flutter</h2>
+ 
+ ```swift
+struct Bio {
+ let name:String = "Benjamin"
+ let dev:String = "Mobile Developer 👨‍💻"
+ let handle:String = "@dotsehyde"
+   public func toString()->String {
+        return "I'm \(self.name) a \(self.dev),\nFollow me on Twitter => \(self.handle)"
+    }
+ }
 
-🌱 I’m currently learning **Swift** && **SwiftUI**
+var me = Bio()
+print(me.toString())
+// I'm Benjamin a Mobile Developer 👨‍💻,
+// Follow me on Twitter => @dotsehyde
+ ```
   </div>
 
 <div align="center">
@@ -33,5 +45,7 @@
   </div>
   
   <div align="center">
-  <a href="https://dotsehyde.github.io" target="_blank"><b>Visit My Portifolio</b> </a>
+ 
+  [Visit My Portifolio](https://dotsehyde.github.io)
+ 
   </div>
