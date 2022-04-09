@@ -36,7 +36,9 @@ print(me.toString())
 <!-- <a href="https://www.ant.design" target="_blank"> <img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" alt="ant-design" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.styled-components.com" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg" alt="styled-components" width="40" height="40"/> </a> -->
 </div>
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotsehyde&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dotsehyde"/></td></tr></table>
+<!-- <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotsehyde&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dotsehyde"/></td></tr></table> -->
+
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=dotsehyde&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/dotsehyde)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dotsehyde" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/> </a>
