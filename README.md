@@ -1,7 +1,9 @@
 <div align="left">
- 
-  <h2> Mobile Developer || Swift || Flutter</h2>
- 
+  
+<h2> Mobile Developer || Swift || Flutter </br> <a href="https://twitter.com/dotsehyde" target="_blank">
+<img alt="Twitter: dotsehyde" src="https://img.shields.io/twitter/follow/dotsehyde.svg?style=social" />
+</a> </h2>
+
  ```swift
 struct Bio {
  let name:String = "Benjamin"
