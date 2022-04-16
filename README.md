@@ -1,6 +1,9 @@
 <div align="left">
   
-<h2> Mobile Developer || Swift || Flutter </br> <a href="https://twitter.com/dotsehyde" target="_blank">
+<h2> Mobile Developer || Swift || Flutter </br> 
+  
+![Visitors](https://komarev.com/ghpvc/?username=dotsehyde&color=blueviolet&style=flat&label=Visitors)
+<a href="https://twitter.com/dotsehyde" target="_blank">
 <img alt="Twitter: dotsehyde" src="https://img.shields.io/twitter/follow/dotsehyde.svg?style=social" />
 </a> </h2>
 
@@ -45,10 +48,6 @@ print(me.toString())
 <div align="center">
   <a href="https://www.linkedin.com/in/dotsehyde" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/> </a>
   <a href="https://www.twitter.com/dotsehyde" target="_blank"> <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="twitter" width="40" height="40"/> </a>
-  <a href="https://www.instagram.com/dotsehyde" target="_blank"> <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="instagram" width="40" height="40"/> </a>
-  </div>
-  
-  <div align="center">
  
   [Visit My Portifolio](https://dotsehyde.github.io)
  
