@@ -1,6 +1,6 @@
 <div align="left">
   
-<h2> Mobile Developer || Swift || Flutter </br> 
+<h2> Mobile App Developer || DevOps Engineer</br> 
   
 ![Visitors](https://komarev.com/ghpvc/?username=dotsehyde&color=blueviolet&style=flat&label=Visitors)
 <a href="https://twitter.com/dotsehyde" target="_blank">
