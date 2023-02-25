@@ -57,7 +57,16 @@ print(me.toString())
 <!-- <a href="https://www.styled-components.com" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg" alt="styled-components" width="40" height="40"/> </a> -->
 </div>
 
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotsehyde&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dotsehyde"/></td></tr></table>
+<!-- <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotsehyde&layout=compact"/>
+  </td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dotsehyde"/></td></tr></table> -->
+
+<div align="center">
+<table><tr><td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dotsehyde&theme=github"/>
+  </td><td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dotsehyde&theme=github"/>
+  </td></tr></table>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dotsehyde" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> </a>
