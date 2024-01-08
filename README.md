@@ -10,7 +10,7 @@
  ```swift
 struct Bio {
  let name:String = "Benjamin"
- let dev:String = "Platform Engineer 👨‍💻"
+ let dev:String = "Software Developer 👨‍💻"
  let handle:String = "@dotsehyde"
    public func toString()->String {
         return "I'm \(self.name) a \(self.dev),\nFollow me on Twitter => \(self.handle)"
@@ -19,7 +19,7 @@ struct Bio {
 
 var me = Bio()
 print(me.toString())
-// I'm Benjamin a Platform Engineer 👨‍💻,
+// I'm Benjamin a Software Developer 👨‍💻,
 // Follow me on Twitter => @dotsehyde
  ```
   </div>
