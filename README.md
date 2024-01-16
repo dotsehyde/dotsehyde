@@ -1,26 +1,36 @@
 <div align="left">
-  
-<h2> Software Developer </h2> </br> 
+
+<h2> Application Engineer | Golang | ExpressJS | Flutter </h2> </br> 
   
 ![Visitors](https://komarev.com/ghpvc/?username=dotsehyde&color=blueviolet&style=flat&label=Visitors)
 <a href="https://twitter.com/dotsehyde" target="_blank">
 <img alt="Twitter: dotsehyde" src="https://img.shields.io/twitter/follow/dotsehyde.svg?style=social" />
 </a> 
 
- ```swift
-struct Bio {
- let name:String = "Benjamin"
- let dev:String = "Software Developer 👨‍💻"
- let handle:String = "@dotsehyde"
-   public func toString()->String {
-        return "I'm \(self.name) a \(self.dev),\nFollow me on Twitter => \(self.handle)"
-    }
- }
+ ```golang
+package main
 
-var me = Bio()
-print(me.toString())
-// I'm Benjamin a Software Developer 👨‍💻,
-// Follow me on Twitter => @dotsehyde
+import "fmt"
+
+type Bio struct {
+	name   string
+	dev    string
+	handle string
+}
+
+func (b *Bio) ToText() string {
+	return fmt.Sprintf("I'm %v, an %v,\nFollow me on Twitter => %v", b.name, b.dev, b.handle)
+}
+func main() {
+	me := Bio{
+		name:   "Benjamin",
+		dev:    "Application Engineer 👨‍💻",
+		handle: "@dotsehyde",
+	}
+	fmt.Println(me.ToText())
+	// I'm Benjamin a Software Developer 👨‍💻,
+	// Follow me on Twitter => @dotsehyde
+}
  ```
   </div>
 
@@ -38,9 +48,9 @@ print(me.toString())
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<!--  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) -->
   
 </div>
 
@@ -71,9 +81,9 @@ print(me.toString())
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
+<!--  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) -->
 <!--   ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) -->
 <!--   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) -->
 <!--  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) -->
