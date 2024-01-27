@@ -1,6 +1,6 @@
 <div align="left">
 	
-[Header](./header_git.png)
+<img src="./header_git.png" alt="Header" />
 	
 <h2> Application Engineer | Golang | ExpressJS | Flutter </h2> </br> 
   
