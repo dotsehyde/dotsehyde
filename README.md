@@ -1,5 +1,7 @@
 <div align="left">
-
+	
+[Header](./header_git.png)
+	
 <h2> Application Engineer | Golang | ExpressJS | Flutter </h2> </br> 
   
 ![Visitors](https://komarev.com/ghpvc/?username=dotsehyde&color=blueviolet&style=flat&label=Visitors)
