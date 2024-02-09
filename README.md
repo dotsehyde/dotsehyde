@@ -15,19 +15,19 @@ package main
 import "fmt"
 
 type Bio struct {
-	name   string
-	dev    string
-	handle string
+	Name   string
+	Dev    string
+	Handle string
 }
 
 func (b *Bio) ToText() string {
-	return fmt.Sprintf("I'm %v, an %v,\nFollow me on Twitter => %v", b.name, b.dev, b.handle)
+	return fmt.Sprintf("I'm %v, an %v,\nFollow me on Twitter => %v", b.Name, b.Dev, b.Handle)
 }
 func main() {
 	me := Bio{
-		name:   "Benjamin",
-		dev:    "Application Engineer 👨‍💻",
-		handle: "@dotsehyde",
+		Name:   "Benjamin",
+		Dev:    "Application Engineer 👨‍💻",
+		Handle: "@dotsehyde",
 	}
 	fmt.Println(me.ToText())
 	// I'm Benjamin a Software Developer 👨‍💻,
