@@ -2,7 +2,7 @@
 	
 <img src="./header_git.png" alt="Header" />
 	
-<h2> Application Engineer | Java | Golang | ExpressJS | Flutter </h2> </br> 
+<h2> Application Engineer | Java | Golang | ExpressJS | ReactJS </h2> </br> 
   
 ![Visitors](https://komarev.com/ghpvc/?username=dotsehyde&color=blueviolet&style=flat&label=Visitors)
 <a href="https://twitter.com/dotsehyde" target="_blank">
@@ -50,6 +50,7 @@ func main() {
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 <!--  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) -->
