@@ -26,11 +26,11 @@ func (b *Bio) ToText() string {
 func main() {
 	me := Bio{
 		Name:   "Benjamin",
-		Dev:    "Application Engineer 👨‍💻",
+		Dev:    "Platform Engineer 👨‍💻",
 		Handle: "@dotsehyde",
 	}
 	fmt.Println(me.ToText())
-	// I'm Benjamin a Software Developer 👨‍💻,
+	// I'm Benjamin a Platform Developer 👨‍💻,
 	// Follow me on Twitter => @dotsehyde
 }
  ```
