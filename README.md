@@ -2,7 +2,7 @@
 	
 <img src="./header_git.png" alt="Header" />
 	
-<h2> Software Engineer | Java | Golang | JavaScript </h2> </br> 
+<h2> Platform Engineer | Java | Golang | JavaScript </h2> </br> 
   
 ![Visitors](https://komarev.com/ghpvc/?username=dotsehyde&color=blueviolet&style=flat&label=Visitors)
 <a href="https://twitter.com/dotsehyde" target="_blank">
